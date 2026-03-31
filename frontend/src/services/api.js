@@ -1,8 +1,9 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://localhost:5000/api",
+  baseURL: "https://mern-website-navigator.onrender.com/api"
 });
 
-export const uploadFile = (formData) =>
-  API.post("/upload", formData);
+export const uploadFile = (formData) => {
+  return API.post("/upload", formData);
+};
