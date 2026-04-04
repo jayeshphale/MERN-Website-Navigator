@@ -53,7 +53,7 @@ function App() {
 
         {/* Footer */}
         <footer className="mt-16 text-center text-sm text-slate-500 border-t border-slate-200 pt-8">
-          <p>© 2024 Website Navigator • Built with React & Tailwind CSS</p>
+          <p>© 2026 Website Navigator</p>
         </footer>
       </div>
 
