@@ -212,8 +212,8 @@ Github : https://github.com/jayeshphale/MERN-Website-Navigator
 
 > Note: Add screenshot files and a demo video link or attachment before final assignment submission to follow the submission guidelines.
 
-Screenshots : 
-Video : 
+Screenshots : https://docs.google.com/document/d/1EAwUSZP4yhtGJklFaYmANuCiT_JFHj1odk_fhSj8CTc/edit?usp=sharing
+Video : https://www.loom.com/share/e0533d60ab58418f8235bf23e15325c9
 
 ---
 
