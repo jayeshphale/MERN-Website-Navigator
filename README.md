@@ -217,48 +217,6 @@ Video :
 
 ---
 
-## Human-Made Development
-
-### 👨‍💻 **Authentic Human Development**
-
-This project was **completely developed by a human developer** through hands-on coding, problem-solving, and iterative development. Every line of code, design decision, and feature implementation reflects genuine human effort and learning.
-
-### **Development Journey**
-- **Research & Planning**: Analyzed requirements, designed architecture, and planned the MERN stack implementation
-- **Backend Development**: Built Express.js server with file upload handling, CSV parsing, and RESTful API endpoints
-- **Frontend Development**: Created responsive React components with modern UI/UX design principles
-- **Integration**: Connected frontend and backend with proper error handling and user feedback
-- **Testing & Debugging**: Manually tested all features, fixed bugs, and optimized performance
-- **UI/UX Design**: Designed clean, professional interface with attention to user experience
-- **Documentation**: Wrote comprehensive README with setup instructions and usage guides
-
-### **Learning Outcomes**
-- **Full-Stack Development**: Mastered MERN stack (MongoDB, Express.js, React, Node.js)
-- **File Handling**: Implemented secure file upload and processing
-- **Data Parsing**: Built CSV parsing logic for URL extraction
-- **API Design**: Created RESTful endpoints with proper error handling
-- **Modern UI**: Applied responsive design, animations, and professional styling
-- **Deployment**: Configured production deployment on Render and Vercel
-
-### **Code Authenticity**
-- **Original Logic**: All algorithms and business logic written from scratch
-- **Custom Components**: Built reusable React components with proper state management
-- **Error Handling**: Implemented comprehensive error handling and user feedback
-- **Performance Optimization**: Optimized for speed and user experience
-- **Security**: Added proper validation and security measures
-
-### **Development Tools & Technologies**
-- **IDE**: VS Code with extensions for React, Node.js, and Tailwind CSS
-- **Version Control**: Git with meaningful commit messages
-- **Package Management**: npm for dependency management
-- **Testing**: Manual testing across different browsers and devices
-- **Debugging**: Console logging and browser dev tools for troubleshooting
-
----
-
 ## Author
 
-**Jayesh Phale** - Full-Stack Developer
-- Developed this MERN application as part of learning journey
-- Implemented all features from scratch with attention to detail
-- Focused on clean code, user experience, and best practices
+**Jayesh Phale**
